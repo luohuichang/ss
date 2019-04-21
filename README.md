@@ -1,2 +1,2 @@
 # ss
-新主机初始化代理
+sh initss.sh password
